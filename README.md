@@ -19,12 +19,32 @@ git remote add origin YOUR_REPO_URL
 git push -u origin master
 ```
 
+### NPM Scripts
+
+To run your code
+
+```
+npm run start:dev
+or
+yarn start:dev
+```
+
+To lint your code
+
+```
+npm run lint
+or
+yarn lint
+```
+
 ### What's included
 
+- Typescript
 - Express
 - Nodemon
 - Jest
 - Supertest
+- Linter (ESLint + Standard Style)
 
 #### Requirements
 
