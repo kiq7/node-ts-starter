@@ -45,6 +45,7 @@ yarn lint
 - Jest
 - Supertest
 - Linter (ESLint + Standard Style)
+- Editorconfig
 
 #### Requirements
 
