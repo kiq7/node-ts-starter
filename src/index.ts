@@ -7,7 +7,7 @@ server.get('/', (_, res): void => {
 })
 
 server.listen(3000, (): void => {
-  console.log(`[SERVER] Running at localhost:3000`)
+  console.log(`Server running at http://localhost:3000`)
 })
 
 export { express as server }
