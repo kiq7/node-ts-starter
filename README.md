@@ -8,7 +8,7 @@ Just clone this repository into your own project folder. and start working
 git clone https://github.com/kiq7/node-ts-starter.git <MyProjectName>
 cd <MyProjectName>
 npm install or yarn
-npm run start:dev or yarn start:dev
+npm run dev or yarn dev
 ```
 
 If you want to detach from this repository into your own repository do this:
