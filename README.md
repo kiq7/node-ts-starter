@@ -1,5 +1,7 @@
 # Nodejs + Typescript Starter
 
+**Use only for proof of concepts and studies. Not ready for production code.**
+
 ### Quick Start
 
 Just clone this repository into your own project folder. and start working
